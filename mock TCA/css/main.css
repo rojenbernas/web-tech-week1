@@ -1,0 +1,80 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.wrapper{
+    width: 920px;
+    margin:auto;
+}
+
+.Headerlinks{
+    width: 100px;
+    float: left;
+    margin:auto;
+}
+header{
+    width: fit-content;
+    height: 50px;
+    
+    margin: auto;
+}
+footer{
+    text-align: center;
+}
+
+#ABOUT_ME{
+    float: left;
+    width: 40%;
+    padding: 10px 2.5%;
+}
+
+#BACKGROUND{
+    float: left;
+    width: 40%;
+    padding:10px 2.5%;
+}
+
+table{
+    width: 60%;
+    margin:10px 20%;
+}
+
+th{
+    text-align: center;
+}
+
+#td1{
+    background-color: rebeccapurple ;
+    font-weight: bold;
+    color: yellow;
+}
+
+#td1_2{
+    background-color: blue;
+}
+
+#td2{
+    background-color: rosybrown;
+    font-weight: bold;
+    color: yellow;
+}
+
+#td2_2{
+    background-color: tomato;
+}
+
+#td3{
+    background-color: violet;
+    font-weight: bold;
+    color: yellow;
+}
+
+#td3_2{
+    background-color: teal;
+}
